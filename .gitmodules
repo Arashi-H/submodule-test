@@ -1,0 +1,3 @@
+[submodule "src/python"]
+	path = src/python
+	url = git@github.com:Arashi-H/sub-module.git
